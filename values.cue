@@ -1,7 +1,7 @@
 package kube
 
 chart: mongodb: {
-	version:    "v1.0.0"
+	version:    "v1.1.0"
 	appVersion: "6.0.3"
 }
 
